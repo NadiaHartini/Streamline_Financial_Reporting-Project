@@ -49,6 +49,4 @@ The goal of this project was to **automate and standardize recurring financial r
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out if you'd like to learn more or collaborate!
+## Feel free to reach out to me if you'd like to learn more or collaborate!
